@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao perfil do Marcos Paulo 😁
 
 <div>
-  <a href="https://github.com/marcospaabreu-bit">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcospaabreu-bit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcospaabreu-bit&layout=compact&langs_count=6&theme=tokyonight"/>
+  <a href="https://github.com/marcospaabreu">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcospaabreu-&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcospaabreu&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
